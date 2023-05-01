@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "ccrawfordproject6d51f2765": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3m7ml7khjl0hk",
+          "type": "manual"
+        }
       }
     }
   }
