@@ -10,6 +10,11 @@
       "StackName": "amplify-ccrawfordproject6-dev-73615",
       "StackId": "arn:aws:cloudformation:us-east-2:230395760767:stack/amplify-ccrawfordproject6-dev-73615/c48df780-e81c-11ed-967c-02e97ba00aab",
       "AmplifyAppId": "d3m7ml7khjl0hk"
+    },
+    "categories": {
+      "auth": {
+        "ccrawfordproject6d51f2765": {}
+      }
     }
   }
 }
